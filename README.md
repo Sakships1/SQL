@@ -1,2 +1,2 @@
 # SQL
-Everything from basics to advance
+Everything about SQL here from basics to advance 
